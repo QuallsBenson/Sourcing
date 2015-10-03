@@ -1,0 +1,19 @@
+{
+    "name": "quallsbenson/sourcing",
+    "description": "An interface library with helpers for sourcing objects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Lee",
+            "email": "richard.lee@quallsbenson.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0" : {
+            "Quallsbenson\\Sourcing\\" : ""
+        }
+    },
+    "target-dir" : "Quallsbenson/Sourcing"    
+}
